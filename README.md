@@ -1,6 +1,10 @@
 # Admin Tools
 
-`Admin Tools` is a standalone FiveM resource focused on simple, reliable staff utilities. It does not depend on ESX, QBCore, or any other framework.
+`Admin Tools` is a standalone FiveM resource by `IF Studios`, focused on simple, reliable staff utilities. It does not depend on ESX, QBCore, or any other framework.
+
+## IF Studios
+
+`IF Studios` creates lightweight FiveM tools with a clean structure, practical features, and a focus on maintainability.
 
 ## Features
 
@@ -101,4 +105,4 @@ Config.ClearAreaAffectsPeds = false
 
 ## License
 
-Free to use and modify for your own server.
+Free to use and modify for your own server. Created and maintained by `IF Studios`.
